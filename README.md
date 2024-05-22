@@ -1,16 +1,15 @@
-# swipe_button
+# Flutter Animated Swipe Button
 
-A new Flutter project.
+This Flutter project demonstrates an animated swipe button that toggles between light and dark themes. The swipe button also features animated background elements like stars, the moon, and the sun, which change based on the button's position.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Swipe Button**: Drag the button to toggle between themes.
+- **Theme Toggle**: Automatically switches between light and dark themes based on the swipe position.
+- **Animated Background**: Background elements like stars, the moon, and the sun animate smoothly according to the button's position.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK : 3.19.2
+- Dart SDK : 3.3.0
